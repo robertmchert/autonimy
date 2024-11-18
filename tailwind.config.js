@@ -7,7 +7,7 @@ module.exports = {
   ],
   darkMode: 'class',
   theme: {
-    extend: {
+    extend: { 
       colors: {
         'hgpt-dark-gray': '#202123',
         'hgpt-medium-gray': '#343541',
