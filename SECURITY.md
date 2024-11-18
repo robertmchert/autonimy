@@ -1,5 +1,5 @@
 # Security Policy
-
+ 
 This security policy outlines the process for reporting vulnerabilities and secrets found within this GitHub repository. It is essential that all contributors and users adhere to this policy in order to maintain a secure and stable environment.
 
 ## Reporting a Vulnerability
